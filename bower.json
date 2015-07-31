@@ -1,0 +1,32 @@
+{
+  "name": "water-elements",
+  "version": "0.0.1",
+  "description": "A set of elements that working with fire, air and earth elements",
+  "main": "water-elements.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "five-elements",
+    "water-elements"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FiveElements/water-elements.git"
+  },
+  "homepage": "https://github.com/FiveElements/water-elements",
+  "authors": [
+    "FiveElement Authors"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+    "air-cascade-validator": "FiveElements/water-page-flow#^0.0.1"
+  }
+}
