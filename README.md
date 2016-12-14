@@ -3,7 +3,7 @@ Polymer Water Elements
 
 
 
-## Description
+## Spirit
 L’Eau : à cet élément sont propres les caractéristiques exactement opposées comme la condensation, la rétention, la concentration, la transformation par accumulation. L’Eau est froideur et obscurité. Pour prendre le contre-pied de l’exemple donné pour le Feu on dira à l’inverse que quelqu’un de particulièrement avare, introverti, timide ou renfermé, fait preuve du déséquilibre inverse, dans la saturation psychique de l’élément Eau. Ce n’est pas pour autant que cette personne vivra plus longtemps que son temps en considérant ce cas comme inverse au déséquilibre igné qui raccourcit le temps de vie. Tout déséquilibre a cet effet sur la longévité, tout excès quel qu’il soit a malheureusement cette propriété.
 Les défauts et qualités en rapport avec l’Eau sont parmi les suivants: indifférence, flegme, insensibilité, condescendance, négligence, timidité, inconstance, mais aussi modestie, sobriété, ferveur, tranquillité, pardon, délicatesse, etc.
 
